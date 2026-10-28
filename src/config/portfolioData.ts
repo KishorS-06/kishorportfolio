@@ -74,7 +74,7 @@ export const portfolioData = {
     aboutSummary: "I am a passionate Computer Science and Business Systems (CSBS) student with a strong foundation in full-stack development, database architecture, and business analytics. I excel at bridging the gap between technical execution and business strategy, building systems that are robust, scalable, and impact-driven. From deep algorithmic solutions in Java and C++ to modern Web applications with the MERN stack and AI integrations, I thrive on solving complex real-world challenges.",
     stats: [
       { label: "LeetCode Problems", value: "250+", rating: "1530 Rating" },
-      { label: "CGPA (B.Tech CSBS)", value: "7.97", subtitle: "Up to 6th Sem" },
+      { label: "CGPA (B.Tech CSBS)", value: "8.00", subtitle: "Up to 6th Sem" },
       { label: "Hackathons Won", value: "Multiple", subtitle: "1st Positions" },
       { label: "Internships Done", value: "3", subtitle: "Industry Experience" }
     ]
